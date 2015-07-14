@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400italic,400,700);
+h1
+{
+  font-size: 45px;
+  color:gold;
+  font-family: 'Roboto Condensed', Times, sans-serif;
+  border-width: 10px;
+  border-style: dotted;
+  border-color: teal;
+  margin:100px;
+  text-align: center;
+  transition: all 1s linear;
+}
+h2
+{
+  color:cornflowerblue
+}
+body
+{
+  background: #427FED;
+  }
+  section
+  {
+    background:#CCCCCC;
+    padding: 40px;
+    margin: 30px;
+  }
+header
+{
+  text-align: center;
+}
+a
+{
+  color: white;
+  text-decoration: none;
+}
+
+h1:hover
+{
+  font-family: "Times New Roman";
+  opacity: .5;
+}
